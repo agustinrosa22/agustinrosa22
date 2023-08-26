@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, yo soy Agustin Rosa</h1>
+<h1 align="center">Hola 👋, me llamo Agustin Rosa</h1>
 <h2 align="center">Quien soy?</h2>
 <h3 align="center">Soy un apasionado programador Full Stack, al cual le encanta aprender nuevas tecnologias, participar de proyectos grupales y aprender mas en el proceso</h3>
 <h2 align="center">Que hago?</h2>
